@@ -1,0 +1,12 @@
+# Tool settings and local configuration (not part of the portfolio)
+.claude/
+.mcp.json
+
+# Raw lab notes (the write-up is in project-1-ad-lab/README.md)
+ad-lab.pdf
+
+# Project 1 screenshots that show a personal user name.
+# Retake them with a neutral account, then remove these lines.
+project-1-ad-lab/screenshots/10-gpo-wallpaper.png
+project-1-ad-lab/screenshots/image-2.png
+project-1-ad-lab/screenshots/image-3.png

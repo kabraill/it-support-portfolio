@@ -1,0 +1,2 @@
+# Saved reports contain the computer name and network details, so keep them out of Git.
+reports/*.txt
