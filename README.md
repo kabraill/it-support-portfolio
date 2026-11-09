@@ -4,15 +4,25 @@ Hands-on projects that show the skills of a first-line and second-line IT suppor
 
 I am looking for a help desk or IT support position. Each project has its own README with the details, screenshots and what I learned.
 
+## Kurzprofil (Deutsch)
+
+Ich bin Informatiker (B.Sc.) und suche eine Stelle im IT-Support bzw. Service Desk. Hier zeige ich drei praktische Projekte, die typische Aufgaben im Support abdecken:
+
+1. **Active-Directory-Testumgebung:** Benutzer, Gruppenrichtlinien (Kennwortrichtlinie, Kontosperrung, Laufwerkszuordnung), Dateifreigaben, FSRM-Kontingente und DHCP
+2. **Service Desk in Jira Service Management:** Anfragetypen, Prioritäten P1 bis P4, SLAs, 20 Übungstickets und fünf Wissensdatenbank-Artikel
+3. **PowerShell-Werkzeugkasten:** Systeminformationen, Festplattenplatz, Netzwerkprüfung sowie DNS-Cache leeren und IP erneuern (beides mit Rückfrage)
+
+Die Projekte sind auf Englisch dokumentiert. Standort: Göppingen, Baden-Württemberg. Sprachen: Deutsch (C1) und Englisch (C1).
+
 ## About me
 
-> Fill in the placeholders below before you share the link.
+I am a computer science graduate (B.Sc.) moving into IT support and help desk work. I bring hands-on experience from software projects, technical documentation and debugging, and I built these three projects to practise support skills: Active Directory, ticketing with SLAs, and PowerShell diagnostics.
 
-- **Who I am:** `<SHORT_DESCRIPTION: one or two sentences about you and your goal>`
-- **Location:** `<CITY_AND_COUNTRY>`
-- **Languages:** `<LANGUAGES_AND_LEVELS>`
-- **Training and certificates:** `<COURSES_OR_CERTIFICATES>`
-- **Contact:** `<EMAIL_ADDRESS>` | `<LINKEDIN_URL>`
+- **Location:** Göppingen, Baden-Württemberg, Germany (willing to relocate within Germany)
+- **Languages:** German (C1), English (C1)
+- **Education:** Bachelor of Science in Computer Science (Informatik), Hochschule für Technik Stuttgart (2019 to 2023)
+- **Experience:** self-employed software development (since 2024), trainee Java developer, internship in IT warehouse management
+- **Find me:** [GitHub](https://github.com/kabraill) | [LinkedIn](https://www.linkedin.com/in/kabrail-chamoun-5b4b30245)
 
 ## Projects
 

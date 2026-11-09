@@ -5,6 +5,10 @@
 # Raw lab notes (the write-up is in project-1-ad-lab/README.md)
 ad-lab.pdf
 
+# Personal documents (CV) - never upload these
+Lebenslauf_*.pdf
+*.pdf
+
 # Project 1 screenshots that show a personal user name.
 # Retake them with a neutral account, then remove these lines.
 project-1-ad-lab/screenshots/10-gpo-wallpaper.png
